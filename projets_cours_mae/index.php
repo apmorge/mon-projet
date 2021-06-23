@@ -77,7 +77,7 @@
         </div>
         <!--Right Col-->
         <div class="w-full md:w-3/5 py-6 text-center z-40">
-          <img class="w-full md:w-4/5 z-50" src="images/hero.jpg"/>
+          <img class="w-full md:w-4/5 z-50" src="images/hero.webp" alt="Lunette appuie sur une petite montagne de sable avec la mer au fond" title="Lunette appuie sur une petite montagne de sable avec la mer au fond"/>
         </div>
       </div>
     </div>
